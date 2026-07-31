@@ -53,7 +53,7 @@ uv sync
 Rscript -e 'renv::restore(prompt = FALSE)'
 ```
 - download the provided data from https://osf.io/y7pm5 and place it in the same folder as this README file
-- run the scripts in order or run `uv run --frozen bash generate_figures.sh`
+- run `uv run --frozen bash generate_figures.sh` or create a `figures` folder and run the scripts in order
 
 To run the zero-shot-decoding analysis locally for the time windows use:
 
