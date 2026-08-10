@@ -18,7 +18,7 @@ From this, all figures can be generated using the following scripts:
 - `02_source_localize/05_3_source_comp_plot.py`: plots the grand average cortical-level comparisons between levels.
 - `03_evokeds_analysis/evokeds_plot.R`: calculates and plots the evoked responses.
 - `04_decoding/sensor-level/windows_overall.R`: calculates the significance of and plots the zero-shot decoding accuracy for the three windows.
-- `04_decoding/temporal-generalization/temporal_cross.R`: calculates the significance of and plots the temporal generalization maps.
+- `04_decoding/temporal-generalization/temporal_cross_plot.R`: plots the temporal generalization maps.
 - `04_decoding/source-level/source_level_vis_sig.py`: plots the cortical-level searchlight decoding results.
 - `05_stimuli/stimuli_stats.R`: calculates and plots statistics of the stimuli.
 
