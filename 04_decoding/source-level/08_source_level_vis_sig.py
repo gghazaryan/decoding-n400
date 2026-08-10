@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 19 15:22:36 2026
-
-@author: ghazarg1
+Plots source-level decoding results.
+@author: Gayane Ghazaryan
 """
 
 import pandas as pd
