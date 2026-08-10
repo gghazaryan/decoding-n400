@@ -14,7 +14,7 @@ import matplotlib
 import os
 
 os.environ["SUBJECTS_DIR"] = "data"
-src = mne.read_source_spaces("data/fsaverage-ico4-src.fif")
+src = mne.read_source_spaces("data/fsaverage/fsaverage-ico4-src.fif")
 
 DATA_PATH = "data"
 all_levels_df = pd.read_csv(f"{DATA_PATH}/source_decoding_all_merged.csv")

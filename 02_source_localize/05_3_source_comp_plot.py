@@ -14,7 +14,7 @@ import numpy as np
 mne.viz.set_3d_backend("pyvistaqt")
 import matplotlib
 
-matplotlib.use("Qt5Agg")
+matplotlib.use("QtAgg")
 import matplotlib.pyplot as plt
 import matplotlib.transforms as mtransforms
 from matplotlib.colors import TwoSlopeNorm
