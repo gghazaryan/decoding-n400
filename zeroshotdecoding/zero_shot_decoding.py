@@ -18,6 +18,10 @@ Palatucci, M., Hinton, G., Pomerleau, D., Mitchell, T. M. (2009). Zero-shot
 learning with semantic output codes. In Y. Bengio, D. Schuurmans, J. D.
 Lafferty, C. K. I. Williams, & A. Culotta (Eds.), Advances in Neural
 Information Processing Systems 22 (pp. 1410–1418). Curran Associates, Inc.
+
+Notes
+-----
+Originally written by Ali Faisal and Annika Hultén in MATLAB. Rewritten in Python by Marijn van Vliet. Edited by Gayane Ghazaryan.
 """
 from __future__ import division, print_function
 
